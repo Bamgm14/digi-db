@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/digi-db/precache-manifest.b35e761c99f68f7d8d774cbbabf4d590.js"
+  "/digi-db/precache-manifest.9467197333a33daf3333346c717c627f.js"
 );
 
 workbox.clientsClaim();
