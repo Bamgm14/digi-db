@@ -4,15 +4,15 @@ self.__precacheManifest = [
     "url": "/digi-db/static/js/runtime~main.369fedb2.js"
   },
   {
-    "revision": "5261551f09cd39e0d00f",
-    "url": "/digi-db/static/js/main.5261551f.chunk.js"
+    "revision": "dc28ca8e828e1794bd8c",
+    "url": "/digi-db/static/js/main.dc28ca8e.chunk.js"
   },
   {
     "revision": "523c42973e051c63b160",
     "url": "/digi-db/static/js/1.523c4297.chunk.js"
   },
   {
-    "revision": "6c512011b781f3bb6a691346df589785",
+    "revision": "991db27b2e9adfce0384ec410aa36d59",
     "url": "/digi-db/index.html"
   }
 ];
