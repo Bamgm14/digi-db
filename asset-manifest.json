@@ -1,11 +1,11 @@
 {
-  "main.js": "/digi-db/static/js/main.72ef18e1.chunk.js",
-  "main.js.map": "/digi-db/static/js/main.72ef18e1.chunk.js.map",
-  "static/js/1.1029ab18.chunk.js": "/digi-db/static/js/1.1029ab18.chunk.js",
-  "static/js/1.1029ab18.chunk.js.map": "/digi-db/static/js/1.1029ab18.chunk.js.map",
+  "main.js": "/digi-db/static/js/main.bceae9ae.chunk.js",
+  "main.js.map": "/digi-db/static/js/main.bceae9ae.chunk.js.map",
+  "static/js/1.83f2db22.chunk.js": "/digi-db/static/js/1.83f2db22.chunk.js",
+  "static/js/1.83f2db22.chunk.js.map": "/digi-db/static/js/1.83f2db22.chunk.js.map",
   "runtime~main.js": "/digi-db/static/js/runtime~main.369fedb2.js",
   "runtime~main.js.map": "/digi-db/static/js/runtime~main.369fedb2.js.map",
   "index.html": "/digi-db/index.html",
-  "precache-manifest.82832abec7a4488365ef8926c1e45707.js": "/digi-db/precache-manifest.82832abec7a4488365ef8926c1e45707.js",
+  "precache-manifest.d6818b4a2e7d91ff0f50dbec5fc9f5e7.js": "/digi-db/precache-manifest.d6818b4a2e7d91ff0f50dbec5fc9f5e7.js",
   "service-worker.js": "/digi-db/service-worker.js"
 }
